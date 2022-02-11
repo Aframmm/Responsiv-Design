@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(99, 142, 192);
+    margin: 0;
+}
+
+div{
+    background-color: rgb(226, 193, 2);
+    width:100vh;
+    height: 100vh;
+    border-radius: 50%;
+    margin: 0 auto;
+    
+}
